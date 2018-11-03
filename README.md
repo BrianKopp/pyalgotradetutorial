@@ -21,3 +21,7 @@ python -m "pyalgotrade.tools.quandl" --source-code="WIKI" --table-code="ORCL" --
 ## Step 2: First Strategy
 
 Shown in first-strategy.py
+
+## Step 3: Simple Moving Average Strategy
+
+Shown in first-sma-strategy.py
