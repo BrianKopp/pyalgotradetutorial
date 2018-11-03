@@ -17,3 +17,7 @@ Command:
 ```
 python -m "pyalgotrade.tools.quandl" --source-code="WIKI" --table-code="ORCL" --from-year=2000 --to-year=2000 --storage=. --force-download --frequency=daily
 ```
+
+## Step 2: First Strategy
+
+Shown in first-strategy.py
