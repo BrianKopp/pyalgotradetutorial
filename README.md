@@ -25,3 +25,7 @@ Shown in first-strategy.py
 ## Step 3: Simple Moving Average Strategy
 
 Shown in first-sma-strategy.py
+
+## Step 4: Simple Moving Average + Relative Strength Index Strategy
+
+Shown in first-sma-rsi-strategy.py
