@@ -29,3 +29,7 @@ Shown in first-sma-strategy.py
 ## Step 4: Simple Moving Average + Relative Strength Index Strategy
 
 Shown in first-sma-rsi-strategy.py
+
+## Step 5: Simulate Trading with Simple Moving Average
+
+Shown in sma-strategy.py
