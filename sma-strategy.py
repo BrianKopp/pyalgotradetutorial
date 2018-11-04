@@ -9,6 +9,7 @@ class SmaStrategy(strategy.BacktestingStrategy):
         self.__instrument = instrument
         self.setUseAdjustedValues(True)
         self.__sma = ma.SMA(feed[instrument].getPriceDataSeries(), smaPeriod)
+        print('initial portfolio value: {:.2f}'.format(self.getBroker().getEquity()))
         return
     
     def onEnterOk(self, position):
