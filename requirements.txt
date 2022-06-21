@@ -4,7 +4,7 @@ cycler==0.10.0
 idna==2.7
 kiwisolver==1.0.1
 matplotlib==3.0.1
-numpy==1.15.3
+numpy==1.22.0
 oauthlib==2.1.0
 pkg-resources==0.0.0
 PyAlgoTrade==0.20
